@@ -16,5 +16,5 @@ bokeh<3.0.0
 streamlit-bokeh-events
 joblib
 scikit-learn
-pickle5
+
 
